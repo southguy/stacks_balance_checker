@@ -1,5 +1,4 @@
 # bnstool-stx-balance-checker
-STX BALANCE CHECKER
+simple html tool
 
-
-simple html stx balance checker tool.
+stx balance checker tool.
